@@ -18,9 +18,3 @@ This project bypasses static datasets by utilizing a custom multi-threaded web s
 ## 🛠️ Tech Stack
 * **Language:** Python 3
 * **Libraries:** `pandas`, `requests`, `beautifulsoup4`, `lxml`, `matplotlib`, `concurrent.futures`, `logging`
-
-## ⚙️ How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/khfong26/Valorant-Agent-Analysis.git](https://github.com/khfong26/Valorant-Agent-Analysis.git)
-   cd Valorant-Agent-Analysis
